@@ -72,13 +72,5 @@ Based on the clustering results, here are the recommendations for marketing stra
 2. **Cluster 1 & Cluster 4**: These customers show potential for growth. Offer promotions to increase spending and encourage full payments. 🎁
 3. **Cluster 0 & Cluster 3**: These are high-risk customers. Introduce financial management tools and flexible payment plans to help reduce risk. 🛡️
 
-## How to Run the Project 🖥️
 
-### Prerequisites
-
-- Python 3.x
-- Required libraries can be installed via `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
 
